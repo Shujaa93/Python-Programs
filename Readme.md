@@ -23,6 +23,7 @@ This repository includes:
   * File Handling
   * Exception Handling
   * Object-Oriented Programming (OOP)
+  * Graphical User Interface (GUI).
 
 * Practice Programs
 
