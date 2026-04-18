@@ -36,6 +36,6 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ##  Author
 
-**Shujjat Hussain**
+**Shujaat Hussain**
 AI Student — IMSciENCES University
 GitHub: https://github.com/Shujaa93
