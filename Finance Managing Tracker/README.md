@@ -1,4 +1,4 @@
-# 💰 Personal Finance Tracker — CLI Edition
+#  Personal Finance Tracker — CLI Edition
 
 A fully-featured, menu-driven command-line finance tracker built in Python. No GUI, no dependencies — just a clean terminal interface to log income, track expenses, view summaries, and manage your money on the go.
 
@@ -60,34 +60,6 @@ A fully-featured, menu-driven command-line finance tracker built in Python. No G
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python **3.6** or higher
-- **No external libraries** — uses only Python built-ins:
-  - `json` — data storage
-  - `os` — file handling & screen clear
-  - `datetime` — date management
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/finance-tracker-cli.git
-
-# Navigate into the project folder
-cd finance-tracker-cli
-```
-
-### Run the App
-
-```bash
-python finance_tracker_cli.py
-```
-
----
-
 ## 🎮 How to Use
 
 1. **Launch** the app — the summary banner and main menu appear
@@ -102,18 +74,6 @@ python finance_tracker_cli.py
 6. **Press `5`** to see a category-by-category breakdown with bar chart
 7. **Press `6`** to clear all data (requires typing `YES`)
 8. **Press `0`** to exit
-
----
-
-## 📁 Project Structure
-
-```
-finance-tracker-cli/
-│
-├── finance_tracker_cli.py   # Main CLI application
-├── finance_data.json        # Auto-generated data file (created on first run)
-└── README.md                # Project documentation
-```
 
 ---
 
@@ -163,15 +123,6 @@ finance-tracker-cli/
 
 ---
 
-## 🛠️ Built With
-
-- **Language:** Python 3
-- **Interface:** Command Line (CLI)
-- **Storage:** JSON (local flat file)
-- **Modules:** `json`, `os`, `datetime`
-
----
-
 ## 💡 Possible Future Improvements
 
 - [ ] Export transactions to **CSV**
@@ -204,9 +155,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+**Shujaat Hussain**
+- GitHub: [@your-username](https://github.com/Shujaa93)
 
 ---
 
-> Built with 🖤 and Python — No GUI needed, just results! 💰
+> Built with 🖤 and Python — No GUI needed, just results! 
